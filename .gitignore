@@ -1,0 +1,15 @@
+__pycache__
+.DS_Store
+__pycache__/
+decorator.cpython-39.pyc
+.idea
+../.idea
+.idea/.name
+.idea/alapatan.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/
+test1.py
+test.py
