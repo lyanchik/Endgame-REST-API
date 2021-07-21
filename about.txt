@@ -1,0 +1,14 @@
+
+ This is a API client program that can send HTTP requests to RESTful web-based APIs
+ and display responses.
+ The program have store a history of requests and have both a command-line
+ and a graphical user interfaces.
+
+ Base features:
+    • ability to send requests to APIs and display the responses
+    • command-line interface
+    • graphical user interface
+    • use of an SQL database to store request history
+    • use of the argparse library to parse command-line arguments
+    • logging to a file
+    • endgame.py as the main runnable script

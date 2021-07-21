@@ -1,0 +1,922 @@
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.14 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.43 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.43 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.41 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/e
+INFO Take GET response from https://api.github.com/e with status 404 in 0.22 seconds
+INFO Send GET request to https://api.github.com/e
+INFO Take GET response from https://api.github.com/e with status 404 in 0.21 seconds
+INFO Send GET request to https://api.github.com/
+INFO Take GET response from https://api.github.com/ with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://api.github.com/
+INFO Take GET response from https://api.github.com/ with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to 
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.4 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.67 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.43 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.48 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.46 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to google.com
+INFO Send GET request to google.com
+INFO Send GET request to google.com
+INFO Send GET request to google.com
+INFO Send GET request to google.com
+INFO Send GET request to google.com
+INFO Send GET request to google.com
+INFO Send GET request to http://google.com
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.52 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.46 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.4 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to 
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.4 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.38 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send PATCH request to https://api.github.com/events
+INFO Take PATCH response from https://api.github.com/events with status 404 in 0.6 seconds
+DEBUG Send PATCH request to https://api.github.com/events
+DEBUG Starting new HTTPS connection (1): api.github.com:443
+DEBUG https://api.github.com:443 "PATCH /events HTTP/1.1" 404 None
+DEBUG Take PATCH response from https://api.github.com/events with status 404 in 0.36 seconds
+DEBUG Send PATCH request to https://api.github.com/events
+DEBUG Starting new HTTPS connection (1): api.github.com:443
+DEBUG https://api.github.com:443 "PATCH /events HTTP/1.1" 404 None
+DEBUG Take PATCH response from https://api.github.com/events with status 404 in 0.33 seconds
+DEBUG Send PATCH request to https://api.github.com/events
+DEBUG Starting new HTTPS connection (1): api.github.com:443
+DEBUG https://api.github.com:443 "PATCH /events HTTP/1.1" 404 None
+DEBUG Take PATCH response from https://api.github.com/events with status 404 in 0.33 seconds
+DEBUG Send PATCH request to https://api.github.com/events
+DEBUG Starting new HTTPS connection (1): api.github.com:443
+DEBUG https://api.github.com:443 "PATCH /events HTTP/1.1" 404 None
+DEBUG Take PATCH response from https://api.github.com/events with status 404 in 0.32 seconds
+DEBUG Send PATCH request to https://api.github.com/events
+DEBUG Starting new HTTPS connection (1): api.github.com:443
+DEBUG https://api.github.com:443 "PATCH /events HTTP/1.1" 404 None
+DEBUG Take PATCH response from https://api.github.com/events with status 404 in 0.36 seconds
+DEBUG Send PATCH request to https://api.github.com/events
+DEBUG Starting new HTTPS connection (1): api.github.com:443
+DEBUG https://api.github.com:443 "PATCH /events HTTP/1.1" 404 None
+DEBUG Take PATCH response from https://api.github.com/events with status 404 in 0.34 seconds
+DEBUG Send PATCH request to https://api.github.com/events
+DEBUG Starting new HTTPS connection (1): api.github.com:443
+DEBUG https://api.github.com:443 "PATCH /events HTTP/1.1" 404 None
+DEBUG Take PATCH response from https://api.github.com/events with status 404 in 0.36 seconds
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.59 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.24 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.21 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.27 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.26 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.63 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.25 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.25 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.24 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.22 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.25 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.3 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.24 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.25 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.23 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.24 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/ev
+INFO Take GET response from https://api.github.com/ev with status 404 in 0.33 seconds
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.26 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.24 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/eve
+INFO Take GET response from https://api.github.com/eve with status 404 in 0.34 seconds
+INFO Send GET request to https://api.github.com/eve
+INFO Take GET response from https://api.github.com/eve with status 404 in 0.32 seconds
+INFO Send GET request to https://api.github.com/eve
+INFO Take GET response from https://api.github.com/eve with status 404 in 0.24 seconds
+INFO Send GET request to https://api.github.com/eve
+INFO Take GET response from https://api.github.com/eve with status 404 in 0.25 seconds
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.56 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/even
+INFO Take GET response from https://api.github.com/even with status 404 in 0.44 seconds
+INFO Send GET request to https://api.github.com/even
+INFO Take GET response from https://api.github.com/even with status 404 in 0.23 seconds
+INFO Send GET request to https://api.github.com/even
+INFO Take GET response from https://api.github.com/even with status 404 in 0.25 seconds
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.62 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.21 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/event
+INFO Take GET response from https://api.github.com/event with status 404 in 0.33 seconds
+INFO Send GET request to https://api.github.com/event
+INFO Take GET response from https://api.github.com/event with status 404 in 0.21 seconds
+INFO Send GET request to https://api.github.com/event
+INFO Take GET response from https://api.github.com/event with status 404 in 0.24 seconds
+INFO Send GET request to https://api.github.com/event
+INFO Take GET response from https://api.github.com/event with status 404 in 0.23 seconds
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.48 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.47 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.48 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.48 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO table is clear
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.46 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.46 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://httpbin.org/ge
+INFO Send GET request to https://httpbin.org/ge
+INFO Send GET request to https://httpbin.org/ge
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 1.42 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/even
+INFO Take GET response from https://api.github.com/even with status 404 in 0.21 seconds
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://api.github.com/even
+INFO Take GET response from https://api.github.com/even with status 404 in 0.22 seconds
+INFO Send GET request to  https://api.github.com/events
+INFO Send GET request to  https://api.github.com/events
+INFO Send GET request to  https://api.github.com/events
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.48 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.12 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.42 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 2 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 1 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to 
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO table is clear
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.45 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/even
+INFO Take GET response from https://api.github.com/even with status 404 in 0.21 seconds
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO Send GET request to https://api.github.com/even
+INFO Take GET response from https://api.github.com/even with status 404 in 0.11 seconds
+INFO Send GET request to https://api.github.com/even
+INFO Take GET response from https://api.github.com/even with status 404 in 0.11 seconds
+INFO Send GET request to https://api.github.com/even
+INFO Take GET response from https://api.github.com/even with status 404 in 0.11 seconds
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.39 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.12 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.12 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.68 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.11 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.45 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.46 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.47 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send POST request to https://httpbin.org/get
+INFO Send PATCH request to https://httpbin.org/get
+INFO Send POST request to https://httpbin.org/post
+INFO Take POST response from https://httpbin.org/post with status 200 in 0.47 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 2 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to 
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.44 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO Send PATCH request to https://api.github.com/events
+INFO Take PATCH response from https://api.github.com/events with status 404 in 0.22 seconds
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send PATCH request to https://httpbin.org/put
+INFO Send PUT request to https://httpbin.org/put
+INFO Take PUT response from https://httpbin.org/put with status 200 in 0.47 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO table is clear
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO DataBase is connected
+WARNING Table doesn't exist
+INFO Send GET request to https://httpbin.org/put
+INFO Send PUT request to https://httpbin.org/put
+INFO Take PUT response from https://httpbin.org/put with status 200 in 0.48 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PUT request to https://httpbin.org/
+INFO Send GET request to https://httpbin.org/
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.69 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to 
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 2 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send PUT request to https://httpbin.org/put
+INFO Take PUT response from https://httpbin.org/put with status 200 in 0.47 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send PATCH request to https://httpbin.org/patch
+INFO Take PATCH response from https://httpbin.org/patch with status 200 in 0.47 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO 3 'Favourite' was updated
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to 
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.48 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://httpbin.org/get
+INFO Take GET response from https://httpbin.org/get with status 200 in 0.47 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+INFO Data was inserted
+INFO Send GET request to https://httpbin.org/ge
+INFO Send PUT request to https://httpbin.org/ge
+INFO Send GET request to https://api.github.com/event
+INFO Take GET response from https://api.github.com/event with status 404 in 0.21 seconds
