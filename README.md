@@ -2,7 +2,7 @@
 
 ## DESCRIPTION:
 
-API allows work with html requests GET, POST, PUT, PATCH, DELETE and visualize the data of the request and response in few formats.
+API allows work with html requests GET, POST, PUT, PATCH, DELETE and visualize the data of the request and response in few formats. 
 
 ## PREREQUISITES:
 
