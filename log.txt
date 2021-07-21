@@ -920,3 +920,31 @@ INFO Send GET request to https://httpbin.org/ge
 INFO Send PUT request to https://httpbin.org/ge
 INFO Send GET request to https://api.github.com/event
 INFO Take GET response from https://api.github.com/event with status 404 in 0.21 seconds
+INFO Send GET request to https://api.github.com/events
+INFO Send GET request to https://api.github.com/events
+INFO Send GET request to https://api.github.com/events
+INFO Take GET response from https://api.github.com/events with status 200 in 0.44 seconds
+INFO Send new record in db with successful status 200
+INFO DataBase is connected
+INFO Table is created
+ERROR Error binding parameter 7 - probably unsupported type.
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
+INFO DataBase is connected
+INFO Method, URL, Params, Body, Status is proceed
+INFO DataBase is connected
+INFO Favourite is proceed
